@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632072369393",
+    "project_id": "vidchat-c7c91",
+    "storage_bucket": "vidchat-c7c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632072369393:android:d0ef6f284a668df8286550",
+        "android_client_info": {
+          "package_name": "com.example.vidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632072369393-mq1d3fpl7tuj72u14qu3g1emjn3v430s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvixS26qwE25fU_QJiCx9XF4laIOOcTJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632072369393-mq1d3fpl7tuj72u14qu3g1emjn3v430s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
